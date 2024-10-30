@@ -4,7 +4,6 @@
 #### *<div align="center">A Student at King Mongkut's institute of Technology Ladkrabang (Information Technology)</div>*  
   
 
-- 🔭 I’m currently working on [Sailom](#)  
   
 
 <br/>  

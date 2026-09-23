@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wirayabovorn Boonpriam
 
-### 🛡️ Cybersecurity Student | Aspiring Penetration Tester & Red Teamer
+### Information Technology Student | Aspiring Penetration Tester & Red Teamer
 
 I'm an **Information Technology student at King Mongkut's Institute of Technology Ladkrabang (KMITL)** with a strong interest in **offensive cybersecurity**.
 
@@ -150,19 +150,6 @@ Some areas I use for building and documenting practical security projects:
 
 ---
 
-## 📚 Currently Learning
-
-```text
-[████████████████░░░░] Web Application Security
-[██████████████░░░░░░] Penetration Testing
-[████████████░░░░░░░░] Linux Privilege Escalation
-[████████████░░░░░░░░] Network Security
-[██████████░░░░░░░░░░] Active Directory Security
-[████████░░░░░░░░░░░░] Red Team Operations
-[███████░░░░░░░░░░░░░] Exploit Development
-```
-
----
 
 ## 🧠 Security Mindset
 
@@ -175,7 +162,7 @@ I believe effective offensive security requires more than knowing how to exploit
 ## 🎓 Education
 
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**
-Bachelor's Student — Information Technology
+Bachelor's Student — Information Technology (IT Infrastructure)
 
 **Area of Interest:** Cybersecurity / Offensive Security
 

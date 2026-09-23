@@ -1,90 +1,230 @@
+# 👋 Hi, I'm Wirayabovorn Boonpriam
 
+### 🛡️ Cybersecurity Student | Aspiring Penetration Tester & Red Teamer
 
-### Hi🙋🏻‍♂️, I'm Wirayabovorn Boonpriam  
-#### *<div align="center">A Student at King Mongkut's institute of Technology Ladkrabang (Information Technology)</div>*  
-  
+I'm an **Information Technology student at King Mongkut's Institute of Technology Ladkrabang (KMITL)** with a strong interest in **offensive cybersecurity**.
 
-  
+My current focus is on understanding how systems can be attacked, identifying security weaknesses, and developing practical skills in **penetration testing, red teaming, web security, network security, and security automation**.
 
-<br/>  
+I enjoy learning through **hands-on labs, CTFs, vulnerable applications, security research, and building my own tools**.
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🎯 Offensive Security Focus
 
+* 🔴 Penetration Testing
+* 🟥 Red Team Operations
+* 🌐 Web Application Security
+* 🔌 API Security
+* 🌐 Network Security
+* 🐧 Linux Security
+* 🔐 Authentication & Access Control
+* 💻 Privilege Escalation
+* 🔎 Reconnaissance & Enumeration
+* 🐚 Exploit Development & Scripting
+* 🤖 Security Automation
+* 🧪 CTFs & Security Labs
 
+---
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+## 🛠️ Security Toolkit
 
-</td><td valign="top" width="33%">
+### 🔎 Reconnaissance & Enumeration
 
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Design  
-<div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://instagram.com/wiraya.sh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+<img src="https://img.shields.io/badge/Nmap-2C2D72?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amass-1F1F1F?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</div>
+
+### 🌐 Web & API Security
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=httpie&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</div>
+
+### 💻 Exploitation & Security Testing
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hashcat-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</div>
+
+### 🐧 Systems & Networking
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+### 🐍 Programming & Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+## 🧰 What I'm Working On
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                 OFFENSIVE SECURITY LAB                   │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  🔎 Reconnaissance       → Asset & Attack Surface       │
+│  🌐 Web Security         → OWASP / API Testing           │
+│  🖥️ Network Pentesting   → Enumeration & Exploitation   │
+│  🔐 Privilege Escalation → Linux / Windows               │
+│  🔴 Red Teaming          → Adversary Simulation          │
+│  🐍 Security Automation  → Python / Bash                 │
+│  🧪 CTF / Labs           → Practical Skill Development  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📂 Cybersecurity Projects
+
+Some areas I use for building and documenting practical security projects:
+
+* 🔴 **Penetration Testing Labs**
+
+  * Reconnaissance
+  * Enumeration
+  * Vulnerability discovery
+  * Exploitation
+  * Privilege escalation
+  * Post-exploitation
+
+* 🌐 **Web Security**
+
+  * OWASP Top 10
+  * Authentication vulnerabilities
+  * Access control
+  * Injection
+  * XSS
+  * SSRF
+  * File upload vulnerabilities
+  * API security
+
+* 🐍 **Security Tools & Automation**
+
+  * Reconnaissance scripts
+  * Enumeration tools
+  * Log / security analysis
+  * Custom security utilities
+  * Workflow automation
+
+* 🧪 **CTF & Security Research**
+
+  * Capture The Flag write-ups
+  * Vulnerable lab environments
+  * Exploit analysis
+  * Security notes
+  * Lessons learned
+
+> ⚠️ All security testing and offensive-security experiments are performed in **authorized labs, CTF environments, or systems where I have explicit permission to test**.
+
+---
+
+## 📚 Currently Learning
+
+```text
+[████████████████░░░░] Web Application Security
+[██████████████░░░░░░] Penetration Testing
+[████████████░░░░░░░░] Linux Privilege Escalation
+[████████████░░░░░░░░] Network Security
+[██████████░░░░░░░░░░] Active Directory Security
+[████████░░░░░░░░░░░░] Red Team Operations
+[███████░░░░░░░░░░░░░] Exploit Development
+```
+
+---
+
+## 🧠 Security Mindset
+
+> **Understand the attack. Understand the defense. Build better security.**
+
+I believe effective offensive security requires more than knowing how to exploit vulnerabilities. It requires understanding **how systems work, why vulnerabilities exist, how attackers chain weaknesses together, and how defenders can detect and mitigate them**.
+
+---
+
+## 🎓 Education
+
+**King Mongkut's Institute of Technology Ladkrabang (KMITL)**
+Bachelor's Student — Information Technology
+
+**Area of Interest:** Cybersecurity / Offensive Security
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wirayabovorn007&show_icons=true&hide_border=true&theme=dark" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirayabovorn007&layout=compact&hide_border=true&theme=dark" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Wirayabovorn007&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/wirayabovorn-boonpriam-794911255/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/wirayabovorn-boonpriam-794911255/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href="https://instagram.com/wiraya.sh">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirayabovorn007&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Wirayabovorn606&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+### 🟥 Offensive Security • Penetration Testing • Red Teaming
 
+**Learning → Breaking → Understanding → Securing**
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>

@@ -169,19 +169,6 @@ Bachelor's Student — Information Technology (IT Infrastructure)
 
 **Area of Interest:** Cybersecurity / Offensive Security
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wirayabovorn007&show_icons=true&hide_border=true&theme=dark" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirayabovorn007&layout=compact&hide_border=true&theme=dark" />
-
-</div>
 
 ---
 

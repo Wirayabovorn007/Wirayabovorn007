@@ -109,56 +109,7 @@ I enjoy learning through **hands-on labs, CTFs, vulnerable applications, securit
 
 ---
 
-## 📂 Cybersecurity Projects
 
-Some areas I use for building and documenting practical security projects:
-
-* 🔴 **Penetration Testing Labs**
-
-  * Reconnaissance
-  * Enumeration
-  * Vulnerability discovery
-  * Exploitation
-  * Privilege escalation
-  * Post-exploitation
-
-* 🌐 **Web Security**
-
-  * OWASP Top 10
-  * Authentication vulnerabilities
-  * Access control
-  * Injection
-  * XSS
-  * SSRF
-  * File upload vulnerabilities
-  * API security
-
-* 🐍 **Security Tools & Automation**
-
-  * Reconnaissance scripts
-  * Enumeration tools
-  * Log / security analysis
-  * Custom security utilities
-  * Workflow automation
-
-* 🧪 **CTF & Security Research**
-
-  * Capture The Flag write-ups
-  * Vulnerable lab environments
-  * Exploit analysis
-  * Security notes
-  * Lessons learned
-
-> ⚠️ All security testing and offensive-security experiments are performed in **authorized labs, CTF environments, or systems where I have explicit permission to test**.
-
----
-
-
-## 🧠 Security Mindset
-
-> **Understand the attack. Understand the defense. Build better security.**
-
-I believe effective offensive security requires more than knowing how to exploit vulnerabilities. It requires understanding **how systems work, why vulnerabilities exist, how attackers chain weaknesses together, and how defenders can detect and mitigate them**.
 
 ---
 
@@ -166,6 +117,9 @@ I believe effective offensive security requires more than knowing how to exploit
 
 **King Mongkut's Institute of Technology Ladkrabang (KMITL)**
 Bachelor's Student — Information Technology (IT Infrastructure)
+
+**42 Bangkok**
+Software engineering and computer programming program
 
 **Area of Interest:** Cybersecurity / Offensive Security
 

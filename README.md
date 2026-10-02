@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wirayabovorn Boonpriam
 
-### Information Technology Student | Aspiring Penetration Tester & Red Teamer
+### Information Technology Student 
 
 I'm an **Information Technology student at King Mongkut's Institute of Technology Ladkrabang (KMITL)** with a strong interest in **offensive cybersecurity**.
 

@@ -198,10 +198,3 @@ Bachelor's Student — Information Technology (IT Infrastructure)
 
 ---
 
-<div align="center">
-
-### 🟥 Offensive Security • Penetration Testing • Red Teaming
-
-**Learning → Breaking → Understanding → Securing**
-
-</div>

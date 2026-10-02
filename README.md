@@ -89,26 +89,6 @@ I enjoy learning through **hands-on labs, CTFs, vulnerable applications, securit
 
 ---
 
-## 🧰 What I'm Working On
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                 OFFENSIVE SECURITY LAB                   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🔎 Reconnaissance       → Asset & Attack Surface       │
-│  🌐 Web Security         → OWASP / API Testing           │
-│  🖥️ Network Pentesting   → Enumeration & Exploitation   │
-│  🔐 Privilege Escalation → Linux / Windows               │
-│  🔴 Red Teaming          → Adversary Simulation          │
-│  🐍 Security Automation  → Python / Bash                 │
-│  🧪 CTF / Labs           → Practical Skill Development  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
 
 
 ---

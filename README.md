@@ -10,23 +10,6 @@ I enjoy learning through **hands-on labs, CTFs, vulnerable applications, securit
 
 ---
 
-## 🎯 Offensive Security Focus
-
-* 🔴 Penetration Testing
-* 🟥 Red Team Operations
-* 🌐 Web Application Security
-* 🔌 API Security
-* 🌐 Network Security
-* 🐧 Linux Security
-* 🔐 Authentication & Access Control
-* 💻 Privilege Escalation
-* 🔎 Reconnaissance & Enumeration
-* 🐚 Exploit Development & Scripting
-* 🤖 Security Automation
-* 🧪 CTFs & Security Labs
-
----
-
 ## 🛠️ Security Toolkit
 
 ### 🔎 Reconnaissance & Enumeration

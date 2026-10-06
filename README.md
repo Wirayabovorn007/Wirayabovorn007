@@ -2,11 +2,7 @@
 
 ### Information Technology Student 
 
-I'm an **Information Technology student at King Mongkut's Institute of Technology Ladkrabang (KMITL)** with a strong interest in **offensive cybersecurity**.
-
-My current focus is on understanding how systems can be attacked, identifying security weaknesses, and developing practical skills in **penetration testing, red teaming, web security, network security, and security automation**.
-
-I enjoy learning through **hands-on labs, CTFs, vulnerable applications, security research, and building my own tools**.
+I’m an Information Technology student at King Mongkut’s Institute of Technology Ladkrabang (KMITL) with a strong interest in offensive cybersecurity and penetration testing. My interests include vulnerability assessment, penetration testing, red teaming, web and network security, and security automation. I develop my skills through hands-on labs, CTF challenges, vulnerable applications, security research, and building security tools. I’m committed to continuously strengthening my technical expertise and problem-solving abilities while exploring emerging challenges in cybersecurity.
 
 ---
 
